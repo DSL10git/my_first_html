@@ -1,0 +1,4 @@
+# ignore all.txt files
+*.txt
+**/images/
+.DS_Store
